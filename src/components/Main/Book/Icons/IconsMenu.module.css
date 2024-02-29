@@ -1,0 +1,14 @@
+svg {
+    &:hover {
+        cursor: pointer;
+    }
+}
+.button {
+    margin: 3px;
+    border: none;
+    background-color: transparent;
+}
+
+.iconMenu {
+    display: flex;
+}

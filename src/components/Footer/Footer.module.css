@@ -1,0 +1,22 @@
+footer {
+    height: 4em;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 12px;
+    font-family: PT Sans,sans-serif;
+}
+
+.footer_title {
+    margin-right: 30px
+}
+
+a {
+    color: var(--orange)
+}
+
+a:hover {
+    text-decoration: none;
+}
